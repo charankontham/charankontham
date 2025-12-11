@@ -57,7 +57,7 @@ I am actively looking for great opportunities to further enhance my development 
 ## 📌 Notable Projects
 
 ### 🛒 **ECS-Shopper**  
-**Tech Stack:** Spring Boot, React, Angular, Kafka, WebSockets, MySQL, MongoDB, AWS  
+**Tech Stack:** Java Spring Boot, C# ASP.NET Core, React, Angular, Kafka, WebSockets, MySQL, MongoDB, AWS  
 - Developed an **AI-based e-commerce platform** with a **microservices architecture**.
 - Integrated **Kafka & WebSockets** for real-time notifications and messaging.
 
