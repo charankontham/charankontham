@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate Software Engineer | Full Stack Developer | Java Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate software engineer with over **6 years of coding experience**, and **5+ years of real-time industry experience**. I specialize in **full-stack development, microservices architecture**, and **cloud technologies**. Always eager to explore new development opportunities and build scalable, high-performance applications!
+Welcome to my GitHub profile! I'm a passionate software engineer with over **7 years of coding experience**, and **5+ years of real-time industry experience**. I specialize in **full-stack development, microservices architecture**, and **cloud technologies**. Always eager to explore new development opportunities and build scalable, high-performance applications!
 
 I am actively looking for great opportunities to further enhance my development skills and contribute to impactful projects. 
 
