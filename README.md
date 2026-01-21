@@ -1,6 +1,6 @@
 # Hi there, I'm SRICHARAN KONTHAM 👋
 
-### 🚀 Passionate Software Engineer | Full Stack Developer | Java Enthusiast
+### 🚀 Passionate Software Engineer | Full Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate software engineer with over **7 years of coding experience**, and **5+ years of real-time industry experience**. I specialize in **full-stack development, microservices architecture**, and **cloud technologies**. Always eager to explore new development opportunities and build scalable, high-performance applications!
 
