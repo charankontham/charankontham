@@ -19,12 +19,6 @@ I am actively looking for great opportunities to further enhance my development 
 
 ## 💼 Professional Experience
 
-### ❇️ **Full Stack Software Developer - Contract**  
-**ModMed (May 2025 – Present)**
-- Developed and supported enterprise applications using **Java, Spring Boot, Angular, and Redis**, implementing a **micro-frontend architecture** for a customer support dashboard to enable modular UI development and independent deployments.
-- Designed and built **RESTful APIs** for end-to-end payment processing workflows, integrating with Adyen for authorization, capture, refunds, chargebacks, and real-time status updates, with **Redis-backed caching webhook processing, idempotency, and retry handling** to improve performance and reliability.
-- Implemented **secure payment business logic** for dynamic charges (surcharging, tipping, additional fees), with robust validation and error handling.
-
 ### ❇️ **Software Engineer**  
 **SS&C Eze Software (July 2021 – July 2023)**  
 - Designed and developed scalable **web applications** using Java, Spring Boot, and Angular, boosting system performance by **40%**.
